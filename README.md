@@ -19,8 +19,7 @@ I'm currently based in Río Cuarto, Córdoba, Argentina.
 I enjoy learning new tools and technologies to improve my skills. I also love drinking Mate or Tereré while coding.
 <br /> <br />
 
-Feel free to explore my projects, suggest improvements, or raise issues. Contributions are always welcome!
-You can ask me anything here or <a href="mailto:salvadorcocosanchez@gmail.com"><b>send me an email</b></a>.
+Feel free to explore my projects, suggest improvements, or raise issues. You can ask me anything here or <a href="mailto:salvadorcocosanchez@gmail.com"><b>send me an email</b></a>.
 <br /> 
 
 
