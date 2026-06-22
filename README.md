@@ -11,14 +11,16 @@
 </a>
 <br />
 <br />
-Front-End Developer specialized in React & Next.js, focused on building modern, accessible and user-centered web interfaces.
+Front-End Developer based in Río Cuarto, Argentina.
 <br />
-Based in Río Cuarto, Córdoba, Argentina — open to remote opportunities.
+I care a lot about making interfaces that are easy to use — the kind where people just *get it* without thinking twice.
 <br />
-I enjoy crafting intuitive products and collaborating with teams to bring ideas to life. Also fueled by Mate ☕ and good music while coding.
+Accessibility and intuitive design are the things I enjoy most about building for the web.
 <br /><br />
  
-Feel free to explore my projects, suggest improvements, or raise issues. You can ask me anything here or <a href="mailto:salvadorcocosanchez@gmail.com"><b>send me an email</b></a>.
+Currently open to remote opportunities. Feel free to explore my projects or <a href="mailto:salvadorcocosanchez@gmail.com"><b>send me an email</b></a>.
+<br />
+*(Probably coding with a mate 🧉 nearby.)*
  
 <br />
 # 💻 Tech Stack:
@@ -37,3 +39,4 @@ Feel free to explore my projects, suggest improvements, or raise issues. You can
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+ 
